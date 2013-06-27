@@ -1,0 +1,5 @@
+localhost
+1434
+sa
+1234$
+QuanLyDangKyTinChi
